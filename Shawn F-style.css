@@ -1,0 +1,51 @@
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Bebas Neue';
+
+  }
+
+body {
+  background-color: black;
+
+}
+
+.UAlbany {
+  color: red;
+  text-indent: 50px;
+  border-top: 2px solid lightblue;
+  padding-top: 10px;
+  font-family: 'Abril Fatface';
+
+}
+
+.Interests{
+  color:white;
+  text-indent: 50px;
+  font-family: 'Abril Fatface';
+}
+
+.Goals{
+  color:blue;
+  text-indent: 50px;
+  border-bottom: 3px solid lightblue;
+  padding-bottom: 10px;
+  font-family: 'Abril Fatface';
+}
+
+.Info{
+  color: white;
+  text-align: center;
+  font-family: 'Shadows Into Light';
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-bottom: 20px;
+}
